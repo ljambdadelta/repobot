@@ -1,1 +1,1 @@
-from .reposter import Reposter, PirateStation
+from .reposter import Reposter
